@@ -248,11 +248,11 @@ figcaption p {
 @media (max-width: 575.98px) {
   /* Navbar xs */
   .navbar-brand {
-    min-width: 100%;
+    width: 100%;
     text-align: center;
   }
   header a.navbar-brand h1 {
-    font-size: x-large!important;
+    font-size: x-large
   }
   /* Navbar icon margin when dropped below .navbar-brand */
   .navbar-toggler {
