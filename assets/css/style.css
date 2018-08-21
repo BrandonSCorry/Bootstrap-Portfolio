@@ -179,8 +179,9 @@ figcaption p {
 
 .form-style label {
   display: block;
-  margin-bottom: 8px;
+  margin-left: 0.375em;
   font-size: large;
+
 }
 
 .form-style input, textarea {
